@@ -7,4 +7,6 @@
 5. chick
 6. bear
 7. bunny
-
+8. tiger
+10. dinosaur
+11. puppy
