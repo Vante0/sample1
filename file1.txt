@@ -1,0 +1,9 @@
+# animals
+
+1. koala
+2. hamster
+3. cat
+4. horse
+5. chick
+6. bear
+7. bunny
